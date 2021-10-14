@@ -1,3 +1,8 @@
+#REACT CRONÔMETRO
+Cronômetro desenvolvido de forma didática com ReactJS
+
+![image](https://user-images.githubusercontent.com/44420212/137341471-5b7b15d5-85b7-40e4-a505-7576787fac08.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
